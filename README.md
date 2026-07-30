@@ -1,1 +1,1 @@
-# Criando-um-miniguia-de-estudo-sobre-CDB-no-notebookLM
+# Miniguia-de-estudos-sobre-CDB-no-notebookLM
