@@ -2,7 +2,9 @@
 
 ## Project 01 - CDB Investments with NotebookLM
 
-### Context and Objectives
+Status: Work in Progress
+
+### 🎯 Context and Objectives
 
 This project was developed as part of an AI learning challenge, which required the creation of a thematic NotebookLM notebook based on an introductory financial topic.
 
@@ -14,7 +16,7 @@ Beyond understanding CDB investments, this project also explores how NotebookLM 
 
 This repository documents the entire learning process, from source selection to prompt refinement and the final study guide.
 
-### Source Curation
+### 📚 Source Curation
 
 The quality of an AI-assisted study depends directly on the quality of its reference materials. For this reason, the sources selected for this project were chosen based on their credibility, accessibility, and relevance to introductory CDB investments. Together, they provide complementary perspectives that support a comprehensive understanding of the topic and serve as the knowledge base for all NotebookLM interactions.
 
@@ -27,4 +29,10 @@ The quality of an AI-assisted study depends directly on the quality of its refer
 | **InvestNews** | Investment simulator used to compare CDB scenarios. [Open the simulator](https://investnews.com.br/ferramentas/simuladores/simulador-de-investimento/) |
 
 These sources were intentionally selected to combine educational content from financial institutions, independent financial media, and a practical investment simulator. This combination enabled not only a better understanding of CDB investments but also the validation and comparison of information across different perspectives.
+
+### 🤖 Prompt Engineering
+
+## 🤖 Prompt Engineering
+
+This project explored how prompt design influences the quality of AI-generated responses. Rather than asking isolated questions, the prompts were progressively refined to obtain clearer explanations, better structured summaries, and more reliable references. This iterative process helped demonstrate how effective prompt engineering can improve both learning outcomes and knowledge organization.
 
