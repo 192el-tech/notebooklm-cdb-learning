@@ -32,7 +32,5 @@ These sources were intentionally selected to combine educational content from fi
 
 ### 🤖 Prompt Engineering
 
-## 🤖 Prompt Engineering
-
 This project explored how prompt design influences the quality of AI-generated responses. Rather than asking isolated questions, the prompts were progressively refined to obtain clearer explanations, better structured summaries, and more reliable references. This iterative process helped demonstrate how effective prompt engineering can improve both learning outcomes and knowledge organization.
 
