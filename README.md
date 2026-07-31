@@ -1,1 +1,1 @@
-# Miniguia-de-estudos-sobre-CDB-no-notebookLM
+# Learning AI with NotebookLM: CDB Investments
