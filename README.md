@@ -16,6 +16,8 @@ This repository documents the entire learning process, from source selection to 
 
 ### Source Curation
 
+The quality of an AI-assisted study depends directly on the quality of its reference materials. For this reason, the sources selected for this project were chosen based on their credibility, accessibility, and relevance to introductory CDB investments. Together, they provide complementary perspectives that support a comprehensive understanding of the topic and serve as the knowledge base for all NotebookLM interactions.
+
 | Source | Description |
 |--------|-------------|
 | **BTG Pactual** | Introduction to CDBs, including key concepts, security, and investment fundamentals. [Access the article](https://content.btgpactual.com/blog/investimentos/o-que-e-cdb) |
@@ -23,4 +25,6 @@ This repository documents the entire learning process, from source selection to 
 | **Wise** | Comparison of CDB investment options and banking institutions. [Access the article](https://wise.com/br/blog/investir-em-cdb) |
 | **InfoMoney** | Detailed guide covering profitability, liquidity, taxation, and investment strategies. [Access the article](https://www.infomoney.com.br/guias/cdb/) |
 | **InvestNews** | Investment simulator used to compare CDB scenarios. [Open the simulator](https://investnews.com.br/ferramentas/simuladores/simulador-de-investimento/) |
+
+These sources were intentionally selected to combine educational content from financial institutions, independent financial media, and a practical investment simulator. This combination enabled not only a better understanding of CDB investments but also the validation and comparison of information across different perspectives.
 
