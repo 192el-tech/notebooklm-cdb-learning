@@ -42,8 +42,10 @@ Instead of starting with highly detailed prompts, the experiment began with simp
 
 #### 📌 Initial Prompt
 
-**Technique:** Baseline Prompt
-
+**Technique:** 
+```text
+Baseline Prompt
+```
 **Prompt**
 ```text
 What is CDB and how can I invest?
@@ -65,12 +67,15 @@ The response was comprehensive but relatively long for quick review.
 
 #### 🔄 Prompt Refinement
 
-**Technique:** Output Formatting + Instruction Prompting
-
+**Technique:** 
+```text
+Output Formatting + Instruction Prompting
+```
 **Prompt**
 ```text
 What is a CDB and how do I invest in it? Please provide a clear explanation and a step-by-step flowchart to illustrate the process.
 ```
+
 **Response Summary**
 
 The response preserved the same technical information while presenting the investment process in a sequential and easier-to-follow structure.
@@ -89,7 +94,7 @@ Guardrails
 ```
 **Prompt**
 ```text
-> Please rewrite the answer to make it simpler and more concise.
+Please rewrite the answer to make it simpler and more concise.
 ```
 
 **Response Summary**
