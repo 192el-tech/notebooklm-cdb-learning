@@ -40,7 +40,7 @@ Instead of starting with highly detailed prompts, the experiment began with simp
 
 #### Experiment 1 – Understanding CDB
 
-##### Initial Prompt
+#### Initial Prompt
 
 **Technique:** Baseline Prompt
 
@@ -49,3 +49,18 @@ Instead of starting with highly detailed prompts, the experiment began with simp
 ```text
 What is CDB and how can I invest?
 ```
+**Response Summary**
+
+NotebookLM explained the concept of a CDB as a fixed-income investment issued by banks, described the investment process, and introduced key concepts such as profitability, liquidity, taxation, and FGC protection.
+
+**Key References**
+
+- BTG Pactual
+- XP Investimentos
+- InfoMoney
+
+**Observation**
+
+The response was comprehensive but relatively long for quick review.
+
+---
