@@ -38,9 +38,9 @@ This project explored how prompt design influences the quality of AI-generated r
 
 Instead of starting with highly detailed prompts, the experiment began with simple, introductory questions to establish a baseline response. Each prompt was then refined individually by applying different prompt engineering techniques, allowing the responses to be compared in terms of clarity, structure, and usefulness. This approach made it possible to evaluate how small changes in prompt design affected the quality of the generated content.
 
-## Experiment 1 – Understanding CDB
+#### Experiment 1 – Understanding CDB
 
-### Initial Prompt
+##### Initial Prompt
 
 **Technique:** Baseline Prompt
 
