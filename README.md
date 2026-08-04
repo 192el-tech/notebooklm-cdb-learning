@@ -62,5 +62,3 @@ NotebookLM explained the concept of a CDB as a fixed-income investment issued by
 **Observation**
 
 The response was comprehensive but relatively long for quick review.
-
----
