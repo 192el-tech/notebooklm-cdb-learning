@@ -40,7 +40,7 @@ Instead of starting with highly detailed prompts, the experiment began with simp
 
 #### Experiment 1 – Understanding CDB
 
-#### Initial Prompt
+<h1 style="color: #0076FF;">1. Initial Prompt</h1>
 
 **Technique:** Baseline Prompt
 
