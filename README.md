@@ -40,7 +40,7 @@ Instead of starting with highly detailed prompts, the experiment began with simp
 
 #### Experiment 1 – Understanding CDB
 
-![Initial Prompt](https://shields.io)
+#### 📌 Initial Prompt
 
 **Technique:** Baseline Prompt
 
@@ -63,7 +63,7 @@ NotebookLM explained the concept of a CDB as a fixed-income investment issued by
 
 The response was comprehensive but relatively long for quick review.
 
-#### Prompt Refinement
+#### 📌 Prompt Refinement
 
 **Technique:** Output Formatting + Instruction Prompting
 
@@ -81,7 +81,7 @@ The response preserved the same technical information while presenting the inves
 - Easier readability
 - More suitable for beginners
 
-#### Final Refinement
+#### 📌 Final Refinement
 
 **Technique:** Guardrails
 
