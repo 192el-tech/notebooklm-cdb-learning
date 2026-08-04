@@ -63,7 +63,7 @@ NotebookLM explained the concept of a CDB as a fixed-income investment issued by
 
 The response was comprehensive but relatively long for quick review.
 
-#### 📌 Prompt Refinement
+#### 🔄 Prompt Refinement
 
 **Technique:** Output Formatting + Instruction Prompting
 
@@ -81,10 +81,12 @@ The response preserved the same technical information while presenting the inves
 - Easier readability
 - More suitable for beginners
 
-#### 📌 Final Refinement
+#### 🛡️ Final Refinement
 
-**Technique:** Guardrails
-
+**Technique:** 
+```text 
+Guardrails
+```
 **Prompt**
 ```text
 > Please rewrite the answer to make it simpler and more concise.
