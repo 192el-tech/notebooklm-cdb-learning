@@ -34,3 +34,18 @@ These sources were intentionally selected to combine educational content from fi
 
 This project explored how prompt design influences the quality of AI-generated responses. Rather than asking isolated questions, the prompts were progressively refined to obtain clearer explanations, better structured summaries, and more reliable references. This iterative process helped demonstrate how effective prompt engineering can improve both learning outcomes and knowledge organization.
 
+#### Strategy
+
+Instead of starting with highly detailed prompts, the experiment began with simple, introductory questions to establish a baseline response. Each prompt was then refined individually by applying different prompt engineering techniques, allowing the responses to be compared in terms of clarity, structure, and usefulness. This approach made it possible to evaluate how small changes in prompt design affected the quality of the generated content.
+
+## Experiment 1 – Understanding CDB
+
+### Initial Prompt
+
+**Technique:** Baseline Prompt
+
+**Prompt**
+
+```text
+What is CDB and how can I invest?
+```
