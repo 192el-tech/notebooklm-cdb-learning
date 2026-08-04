@@ -45,10 +45,10 @@ Instead of starting with highly detailed prompts, the experiment began with simp
 **Technique:** Baseline Prompt
 
 **Prompt**
-
 ```text
 What is CDB and how can I invest?
 ```
+
 **Response Summary**
 
 NotebookLM explained the concept of a CDB as a fixed-income investment issued by banks, described the investment process, and introduced key concepts such as profitability, liquidity, taxation, and FGC protection.
@@ -62,3 +62,21 @@ NotebookLM explained the concept of a CDB as a fixed-income investment issued by
 **Observation**
 
 The response was comprehensive but relatively long for quick review.
+
+### Prompt Refinement
+
+**Technique:** ![Output Formatting](https://img.shields.io/badge/Technique-Output%20Formatting-green)
+
+**Prompt**
+```text
+What is a CDB and how do I invest in it? Please provide a clear explanation and a step-by-step flowchart to illustrate the process.
+```
+**Response Summary**
+
+The response preserved the same technical information while presenting the investment process in a sequential and easier-to-follow structure.
+
+**Observation**
+
+...
+
+---
