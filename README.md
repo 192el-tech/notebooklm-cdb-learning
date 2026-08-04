@@ -63,9 +63,9 @@ NotebookLM explained the concept of a CDB as a fixed-income investment issued by
 
 The response was comprehensive but relatively long for quick review.
 
-### Prompt Refinement
+#### Prompt Refinement
 
-**Technique:** ![Output Formatting](https://img.shields.io/badge/Technique-Output%20Formatting-green)
+**Technique:** Output Formatting + Instruction Prompting
 
 **Prompt**
 ```text
@@ -75,8 +75,27 @@ What is a CDB and how do I invest in it? Please provide a clear explanation and 
 
 The response preserved the same technical information while presenting the investment process in a sequential and easier-to-follow structure.
 
-**Observation**
+**Improvement**
 
-...
+- Better organization
+- Easier readability
+- More suitable for beginners
 
----
+#### Final Refinement
+
+**Technique:** Guardrails
+
+**Prompt**
+```text
+> Please rewrite the answer to make it simpler and more concise.
+```
+
+**Response Summary**
+
+The generated answer became considerably shorter while preserving the essential concepts regarding investment steps, profitability, taxation, and safety.
+
+**Improvement**
+
+- Reduced verbosity
+- Faster review
+- Better suited for study notes
