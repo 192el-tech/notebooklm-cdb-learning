@@ -106,3 +106,62 @@ The generated answer became considerably shorter while preserving the essential 
 - Reduced verbosity
 - Faster review
 - Better suited for study notes
+
+#### Experiment 2 – Advantages of Investing in CDB
+
+#### 📌 Initial Prompt
+
+**Technique:** 
+```text
+Baseline Prompt
+```
+**Prompt**
+```text
+Explain to me the advantages of investing in CDB.
+```
+
+**Response Summary**
+
+The initial response identified the main advantages of investing in CDBs, including higher profitability than savings accounts, FGC protection, accessibility, liquidity, different remuneration models, tax efficiency, and ease of investing. Although comprehensive, the explanation was relatively long and presented the information in a way that could be simplified for beginner-level study.
+
+**Observation**
+
+The response answered the question correctly but contained more detail than necessary for a quick review.
+
+#### 🔄 Prompt Refinement
+
+**Technique:** 
+```text
+Output Formatting
+```
+**Prompt**
+```text
+Explain the advantages of investing in a CDB. Present the answer as a comparison table with the columns: Advantage, Explanation, and Practical Example.
+```
+
+**Response Summary**
+
+The response was transformed into a well-organized comparison table, categorizing each advantage of investing in a CDB alongside a brief explanation and a practical example. This structured format made it easier to compare key concepts, quickly identify the main benefits, and reinforce learning through real-world applications.
+
+**Observation**
+
+Compared with the previous responses, the use of Output Formatting did not introduce new information but substantially improved the presentation of the content. Organizing the answer into a comparison table reduced cognitive effort, facilitated topic-by-topic analysis, and created a format better suited for note-taking and quick revision.
+
+#### 🛡️ Final Refinement
+
+**Technique:** 
+```text 
+Audience Specification + Output Formatting + Guardrails + Source Grounding
+```
+**Prompt**
+```text
+Explain the advantages of investing in a CDB in a clear and beginner-friendly way. Organize the answer into the following sections: profitability, safety, liquidity, taxation, and ideal investor profile. Keep the explanation concise, avoid unnecessary technical jargon, and use only the information available in the provided sources.
+```
+
+**Response Summary**
+
+The final prompt produced the most structured and beginner-friendly response of the experiment. The information was organized into clearly defined sections—profitability, safety, liquidity, taxation, and ideal investor profile—making the content easier to navigate and understand. By combining multiple prompt engineering techniques, the response remained concise, accurate, and fully grounded in the provided sources while avoiding unnecessary technical complexity.
+
+**Observation**
+
+This version demonstrated the value of combining prompt engineering techniques rather than relying on a single approach. Defining the target audience simplified the language, specifying the output structure improved readability, guardrails controlled verbosity, and grounding the response in the uploaded sources increased reliability. The resulting answer required minimal post-editing and was the most suitable for inclusion in the final study guide.
