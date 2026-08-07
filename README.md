@@ -224,3 +224,27 @@ The final prompt generated the most comprehensive response of the experiment. In
 **Observation**
 
 Combining multiple prompt engineering techniques significantly improved both the depth and the practical value of the response. Role Prompting encouraged a more professional and strategic perspective, Task Decomposition ensured that each decision factor was analyzed independently, Output Formatting produced a highly organized comparison, and Guardrails kept the response focused on the requested analysis. The resulting output evolved from a simple explanation into a structured decision-support guide requiring virtually no post-editing.
+
+### 🩹 Prompt Engineering Scars
+
+The prompt engineering process was iterative rather than linear. Throughout the experiments, several challenges required adjustments to the prompts and influenced the final approach.
+
+### 1. Similar Responses
+
+One of the first challenges was obtaining noticeably different results from small changes to the prompt. In some cases, simply rephrasing a question produced responses with very similar content. This showed that meaningful improvements often require changes to the instructions, structure, or constraints rather than wording alone.
+
+### 2. Controlling the Level of Detail
+
+More detailed prompts did not necessarily produce better study material. Some responses contained useful information but were too extensive for quick review. Introducing constraints such as concise explanations, beginner-friendly language, and predefined sections helped balance depth and readability.
+
+### 3. Structuring Information for Learning
+
+The initial responses were generally informative, but their format was not always optimized for studying. Techniques such as Output Formatting and structured instructions helped transform generic explanations into tables, categorized summaries, and decision frameworks.
+
+### 4. Controlling the Scope of the Analysis
+
+As the prompts became more sophisticated, there was a risk of the response becoming broader than the original objective. Explicitly defining the dimensions to analyze and restricting the response to the provided sources helped maintain focus and relevance.
+
+### Key Learning
+
+The main lesson from these challenges was that effective prompt engineering is an iterative process. Better results did not come from simply making prompts longer, but from defining the desired audience, structure, scope, and constraints according to the learning objective.
