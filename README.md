@@ -165,3 +165,62 @@ The final prompt produced the most structured and beginner-friendly response of 
 **Observation**
 
 This version demonstrated the value of combining prompt engineering techniques rather than relying on a single approach. Defining the target audience simplified the language, specifying the output structure improved readability, guardrails controlled verbosity, and grounding the response in the uploaded sources increased reliability. The resulting answer required minimal post-editing and was the most suitable for inclusion in the final study guide.
+
+#### Experiment 3 – Traditional vs. Digital Banks
+
+### 📌 Initial Prompt
+
+**Technique:**  
+```text
+Baseline Prompt
+```
+**Prompt**
+```text
+Is there any difference in investing depending on whether the bank is physical or digital?
+```
+
+**Response Summary**
+
+The initial response compared investing through traditional and digital banks by discussing differences in yield, minimum investment requirements, customer support, and user experience. It also highlighted similarities, such as FGC protection, taxation rules, and the availability of digital investment platforms across both banking models.
+
+**Observation**
+
+The response provided a comprehensive overview of the topic, but the information was presented as a continuous explanation with limited structure. Although the main differences were identified, the content was more descriptive than analytical, making it less suitable for quick comparison and decision-making.
+
+### 🔄 Prompt Refinement
+
+**Technique:** 
+```text
+Role Prompting + Output Formatting
+```
+**Prompt**
+```text
+Act as a personal finance expert. Compare the differences between investing through a traditional brick-and-mortar bank versus a digital bank. Analyze key aspects such as fees, investment product variety, financial safety (like deposit insurance), and customer service support. Provide the final response in a structured comparison table followed by a brief summary of recommendations for a beginner investor.
+```
+
+**Response Summary**
+
+Assuming the role of a personal finance expert, NotebookLM produced a structured comparison between traditional and digital banks. The response was organized into a comparison table covering fees, product variety, financial safety, customer support, minimum investment, and expected yields. It concluded with practical recommendations tailored to beginner investors, including guidance on deposit insurance (FGC), minimum investment strategies, liquidity, and evaluating institutional credit ratings.
+
+**Observation**
+
+Compared with the baseline response, this version shifted from a descriptive explanation to a decision-oriented analysis. Role Prompting encouraged a more professional and advisory tone, while Output Formatting transformed scattered information into a comparison table that made similarities and differences immediately visible. The addition of actionable recommendations further increased the practical value of the response for someone beginning to invest.
+
+### 🛡️ Final Refinement
+
+**Technique:**
+```text
+Role Prompting + Task Decomposition + Output Formatting + Guardrails
+```
+**Prompt**
+```text
+Act as a senior financial advisor and wealth management expert. Your task is to provide a rigorous, objective comparison between investing through traditional brick-and-mortar banks versus digital banks, specifically tailored for an individual investor with a moderate risk profile. Core Dimensions to Analyze: Yield & Costs: Contrast management fees, brokerage fees, and the yield rates typically offered on fixed-income products (e.g., CDs/CDBs).Product Ecosystem: Compare the breadth of access to third-party funds, equities, and international markets.Risk & Capital Security: Evaluate institutional risk, liquidity risks, and how deposit insurance protections apply to both models.Relationship & Advisory: Contrast automated/AI-driven financial advice with dedicated human managers, focusing on high-stakes financial decision-making.Hidden Friction: Detail operational bottlenecks, such as daily withdrawal limits, account maintenance hidden fees, and app downtime risks.Output Formatting Rules:Start directly with a Markdown comparison table contrasting the 5 dimensions.Use a "Pros & Cons" bulleted list for each banking model.End with a 3-step actionable decision framework helping the user choose where to allocate their capital based on their monthly investment volume.Avoid generic financial advice or standard definitions of what a bank is. Proceed directly to the strategic analysis.
+```
+
+**Response Summary**
+
+The final prompt generated the most comprehensive response of the experiment. Instead of providing only a comparison between traditional and digital banks, NotebookLM organized the analysis into multiple strategic dimensions, including investment costs, product ecosystem, capital security, advisory services, and operational limitations. It also presented a balanced list of advantages and disadvantages for each banking model and concluded with a three-step decision framework based on the investor's monthly investment volume, offering practical guidance tailored to different investment scenarios.
+
+**Observation**
+
+Combining multiple prompt engineering techniques significantly improved both the depth and the practical value of the response. Role Prompting encouraged a more professional and strategic perspective, Task Decomposition ensured that each decision factor was analyzed independently, Output Formatting produced a highly organized comparison, and Guardrails kept the response focused on the requested analysis. The resulting output evolved from a simple explanation into a structured decision-support guide requiring virtually no post-editing.
