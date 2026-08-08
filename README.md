@@ -2,8 +2,6 @@
 
 ## Project 01 - CDB Investments with NotebookLM
 
-Status: Work in Progress
-
 ### 🎯 Context and Objectives
 
 This project was developed as part of an AI learning challenge, which required the creation of a thematic NotebookLM notebook based on an introductory financial topic.
@@ -15,6 +13,8 @@ The primary objective of this project is to apply the knowledge acquired through
 Beyond understanding CDB investments, this project also explores how NotebookLM can support active learning through source curation, structured summaries, prompt engineering, and knowledge organization.
 
 This repository documents the entire learning process, from source selection to prompt refinement and the final study guide.
+
+***
 
 ### 📚 Source Curation
 
@@ -260,7 +260,7 @@ It also includes a glossary of key financial concepts and a collection of reusab
 
 👉 **[Access the CDB Mini Study Guide](./mini-guide/cdb-study-guide.md)**
 
-### 🎯 Final Reflection
+### 💹 Final Reflection
 
 This project demonstrated how NotebookLM can be used not only as a source of information, but as a learning assistant capable of supporting research, source curation, critical thinking, and knowledge organization.
 
