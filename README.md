@@ -40,6 +40,8 @@ This project explored how prompt design influences the quality of AI-generated r
 
 Instead of starting with highly detailed prompts, the experiment began with simple, introductory questions to establish a baseline response. Each prompt was then refined individually by applying different prompt engineering techniques, allowing the responses to be compared in terms of clarity, structure, and usefulness. This approach made it possible to evaluate how small changes in prompt design affected the quality of the generated content.
 
+***
+
 #### Experiment 1 – Understanding CDB
 
 #### 📌 Initial Prompt
@@ -109,6 +111,8 @@ The generated answer became considerably shorter while preserving the essential 
 - Faster review
 - Better suited for study notes
 
+***
+
 #### Experiment 2 – Advantages of Investing in CDB
 
 #### 📌 Initial Prompt
@@ -167,6 +171,8 @@ The final prompt produced the most structured and beginner-friendly response of 
 **Observation**
 
 This version demonstrated the value of combining prompt engineering techniques rather than relying on a single approach. Defining the target audience simplified the language, specifying the output structure improved readability, guardrails controlled verbosity, and grounding the response in the uploaded sources increased reliability. The resulting answer required minimal post-editing and was the most suitable for inclusion in the final study guide.
+
+***
 
 #### Experiment 3 – Traditional vs. Digital Banks
 
@@ -253,6 +259,7 @@ As the prompts became more sophisticated, there was a risk of the response becom
 
 The main lesson from these challenges was that effective prompt engineering is an iterative process. Better results did not come from simply making prompts longer, but from defining the desired audience, structure, scope, and constraints according to the learning objective.
 
+***
 
 ### 📖 Mini Study Guide
 
