@@ -248,3 +248,22 @@ As the prompts became more sophisticated, there was a risk of the response becom
 #### Key Learning
 
 The main lesson from these challenges was that effective prompt engineering is an iterative process. Better results did not come from simply making prompts longer, but from defining the desired audience, structure, scope, and constraints according to the learning objective.
+
+
+### 📖 Mini Study Guide
+
+The final stage of the project was the creation of a concise and reusable study guide based on the knowledge developed throughout the NotebookLM experiments.
+
+The guide consolidates the main concepts related to CDB investments, including how CDBs work, their advantages, types of remuneration, important factors to consider before investing, and differences between traditional and digital banks.
+
+It also includes a glossary of key financial concepts and a collection of reusable prompts developed from the prompt engineering experiments.
+
+👉 **[Access the CDB Mini Study Guide](./mini-guide/cdb-study-guide.md)**
+
+### 🎯 Final Reflection
+
+This project demonstrated how NotebookLM can be used not only as a source of information, but as a learning assistant capable of supporting research, source curation, critical thinking, and knowledge organization.
+
+The iterative prompt engineering process showed that the quality of an AI-generated response depends not only on the information available to the model, but also on how the task, audience, structure, and constraints are defined.
+
+This first project served as a practical introduction to AI-assisted learning and provided a foundation for exploring more advanced applications in future projects.
