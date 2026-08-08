@@ -14,7 +14,7 @@ Beyond understanding CDB investments, this project also explores how NotebookLM 
 
 This repository documents the entire learning process, from source selection to prompt refinement and the final study guide.
 
-***
+---
 
 ### 📚 Source Curation
 
@@ -30,7 +30,7 @@ The quality of an AI-assisted study depends directly on the quality of its refer
 
 These sources were intentionally selected to combine educational content from financial institutions, independent financial media, and a practical investment simulator. This combination enabled not only a better understanding of CDB investments but also the validation and comparison of information across different perspectives.
 
-***
+---
 
 ### 🤖 Prompt Engineering
 
@@ -40,7 +40,7 @@ This project explored how prompt design influences the quality of AI-generated r
 
 Instead of starting with highly detailed prompts, the experiment began with simple, introductory questions to establish a baseline response. Each prompt was then refined individually by applying different prompt engineering techniques, allowing the responses to be compared in terms of clarity, structure, and usefulness. This approach made it possible to evaluate how small changes in prompt design affected the quality of the generated content.
 
-***
+---
 
 #### Experiment 1 – Understanding CDB
 
@@ -111,7 +111,7 @@ The generated answer became considerably shorter while preserving the essential 
 - Faster review
 - Better suited for study notes
 
-***
+---
 
 #### Experiment 2 – Advantages of Investing in CDB
 
@@ -172,7 +172,7 @@ The final prompt produced the most structured and beginner-friendly response of 
 
 This version demonstrated the value of combining prompt engineering techniques rather than relying on a single approach. Defining the target audience simplified the language, specifying the output structure improved readability, guardrails controlled verbosity, and grounding the response in the uploaded sources increased reliability. The resulting answer required minimal post-editing and was the most suitable for inclusion in the final study guide.
 
-***
+---
 
 #### Experiment 3 – Traditional vs. Digital Banks
 
@@ -233,7 +233,7 @@ The final prompt generated the most comprehensive response of the experiment. In
 
 Combining multiple prompt engineering techniques significantly improved both the depth and the practical value of the response. Role Prompting encouraged a more professional and strategic perspective, Task Decomposition ensured that each decision factor was analyzed independently, Output Formatting produced a highly organized comparison, and Guardrails kept the response focused on the requested analysis. The resulting output evolved from a simple explanation into a structured decision-support guide requiring virtually no post-editing.
 
-***
+---
 
 ### 🩹 Prompt Engineering Scars
 
@@ -259,7 +259,7 @@ As the prompts became more sophisticated, there was a risk of the response becom
 
 The main lesson from these challenges was that effective prompt engineering is an iterative process. Better results did not come from simply making prompts longer, but from defining the desired audience, structure, scope, and constraints according to the learning objective.
 
-***
+---
 
 ### 📖 Mini Study Guide
 
@@ -271,7 +271,7 @@ It also includes a glossary of key financial concepts and a collection of reusab
 
 👉 **[Access the CDB Mini Study Guide](./mini-guide/cdb-study-guide.md)**
 
-***
+---
 
 ### 💹 Final Reflection
 
