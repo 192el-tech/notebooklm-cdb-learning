@@ -12,6 +12,16 @@ The objective is not to provide personalized financial advice, but to organize i
 
 ---
 
+## 🔗 NotebookLM Project
+
+The complete NotebookLM workspace used throughout this project is available below:
+
+👉 **[Access the CDB NotebookLM](https://notebook.google.com/notebook/ee3a36d5-0624-4be7-8d00-06902b440a14?pli=1)**
+
+The notebook contains the curated sources, study questions, prompt experiments, and AI-generated responses that served as the foundation for this study guide.
+
+---
+
 ## 2. What Is a CDB?
 
 **CDB (Certificado de Depósito Bancário)** is a fixed-income security issued by financial institutions to raise funds for their activities.
