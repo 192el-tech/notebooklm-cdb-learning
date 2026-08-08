@@ -176,7 +176,7 @@ This version demonstrated the value of combining prompt engineering techniques r
 
 #### Experiment 3 – Traditional vs. Digital Banks
 
-### 📌 Initial Prompt
+#### 📌 Initial Prompt
 
 **Technique:**  
 ```text
@@ -195,7 +195,7 @@ The initial response compared investing through traditional and digital banks by
 
 The response provided a comprehensive overview of the topic, but the information was presented as a continuous explanation with limited structure. Although the main differences were identified, the content was more descriptive than analytical, making it less suitable for quick comparison and decision-making.
 
-### 🔄 Prompt Refinement
+#### 🔄 Prompt Refinement
 
 **Technique:** 
 ```text
@@ -214,7 +214,7 @@ Assuming the role of a personal finance expert, NotebookLM produced a structured
 
 Compared with the baseline response, this version shifted from a descriptive explanation to a decision-oriented analysis. Role Prompting encouraged a more professional and advisory tone, while Output Formatting transformed scattered information into a comparison table that made similarities and differences immediately visible. The addition of actionable recommendations further increased the practical value of the response for someone beginning to invest.
 
-### 🛡️ Final Refinement
+#### 🛡️ Final Refinement
 
 **Technique:**
 ```text
