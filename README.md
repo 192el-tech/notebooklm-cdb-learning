@@ -30,6 +30,8 @@ The quality of an AI-assisted study depends directly on the quality of its refer
 
 These sources were intentionally selected to combine educational content from financial institutions, independent financial media, and a practical investment simulator. This combination enabled not only a better understanding of CDB investments but also the validation and comparison of information across different perspectives.
 
+***
+
 ### 🤖 Prompt Engineering
 
 This project explored how prompt design influences the quality of AI-generated responses. Rather than asking isolated questions, the prompts were progressively refined to obtain clearer explanations, better structured summaries, and more reliable references. This iterative process helped demonstrate how effective prompt engineering can improve both learning outcomes and knowledge organization.
@@ -225,6 +227,8 @@ The final prompt generated the most comprehensive response of the experiment. In
 
 Combining multiple prompt engineering techniques significantly improved both the depth and the practical value of the response. Role Prompting encouraged a more professional and strategic perspective, Task Decomposition ensured that each decision factor was analyzed independently, Output Formatting produced a highly organized comparison, and Guardrails kept the response focused on the requested analysis. The resulting output evolved from a simple explanation into a structured decision-support guide requiring virtually no post-editing.
 
+***
+
 ### 🩹 Prompt Engineering Scars
 
 The prompt engineering process was iterative rather than linear. Throughout the experiments, several challenges required adjustments to the prompts and influenced the final approach.
@@ -259,6 +263,8 @@ The guide consolidates the main concepts related to CDB investments, including h
 It also includes a glossary of key financial concepts and a collection of reusable prompts developed from the prompt engineering experiments.
 
 👉 **[Access the CDB Mini Study Guide](./mini-guide/cdb-study-guide.md)**
+
+***
 
 ### 💹 Final Reflection
 
